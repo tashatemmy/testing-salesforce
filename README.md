@@ -1,4 +1,4 @@
-* Salesforce.com.au Automation Testing
+*Salesforce.com.au Automation Testing
 
 This project contains automated test scripts for the Salesforce Australia website (https://salesforce.com/au) using Selenium WebDriver and TestNG.
 
@@ -6,7 +6,7 @@ This project contains automated test scripts for the Salesforce Australia websit
 
 The purpose of this project is to demonstrate automation testing skills by validating key workflows and components on the Salesforce Australia website.
 
-** ✅ Key Features Automated
+**✅ Key Features Automated
 
 “Try for Free” Section
 
@@ -25,7 +25,7 @@ Wrote test scripts for interacting with the chat widget on the homepage.
 Managed Shadow DOM elements, which required advanced Selenium locators and JavaScript execution.
 
 
-** 🛠️ Tech Stack
+**🛠️ Tech Stack
 
 Java
 
@@ -37,18 +37,18 @@ WebDriverManager (for local driver setup)
 
 BrowserStack SDK (for cloud-based cross-browser testing)
 
-** 🚀 How to Run
+**🚀 How to Run
 
 You can run the tests in two environments:
 
 Local:
 
-mvn clean test -Denv=local -Dbrowser=chrome
+``mvn clean test -Denv=local -Dbrowser=chrome
 
 
 BrowserStack:
 
-mvn clean test -Denv=browserstack
+``mvn clean test -Denv=browserstack
 
 📂 Structure
 
