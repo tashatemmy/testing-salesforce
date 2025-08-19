@@ -20,7 +20,7 @@ Managed Shadow DOM elements, which required advanced Selenium locators and JavaS
 
 **Test Demo**
 Watch the Salesforce Test Demonstration Here: 
-in [Salesforce `Try For Free Demo`](https://www.loom.com/share/35b54a7a4bd84c1a8d93651a4b742190?sid=795fc3ee-1609-4b2f-bfeb-d1ba6186514c)
+[Salesforce - Try For Free Demo](https://www.loom.com/share/35b54a7a4bd84c1a8d93651a4b742190?sid=795fc3ee-1609-4b2f-bfeb-d1ba6186514c)
 
 
 **🛠️ Tech Stack**
