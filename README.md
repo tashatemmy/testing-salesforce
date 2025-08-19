@@ -9,6 +9,7 @@ The purpose of this project is to demonstrate automation testing skills by valid
 **✅ Key Features Automated**
 
 ***“Try for Free” Section***
+
 Automated end-to-end flow of filling out and submitting the trial form.
 
 Handled multiple components within the form, including input validation and dropdowns.
@@ -18,11 +19,13 @@ Managed Shadow DOM elements, which required advanced Selenium locators and JavaS
 Switched between windows - homepage and try for free page
 
 ***Homepage Chat Message Box***
+
 Wrote test scripts for interacting with the chat widget on the homepage.
 
 Managed Shadow DOM elements, which required advanced Selenium locators and JavaScript execution.
 
 **Test Demo**
+
 Watch the Salesforce Test Demonstration Here: 
 [Salesforce - Try For Free Demo](https://www.loom.com/share/35b54a7a4bd84c1a8d93651a4b742190?sid=795fc3ee-1609-4b2f-bfeb-d1ba6186514c)
 
