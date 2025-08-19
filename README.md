@@ -8,14 +8,18 @@ The purpose of this project is to demonstrate automation testing skills by valid
 
 **✅ Key Features Automated**
 
-“Try for Free” Section
+***“Try for Free” Section***
 Automated end-to-end flow of filling out and submitting the trial form.
+
 Handled multiple components within the form, including input validation and dropdowns.
+
 Managed Shadow DOM elements, which required advanced Selenium locators and JavaScript execution.
+
 Switched between windows - homepage and try for free page
 
-Homepage Chat Message Box
+***Homepage Chat Message Box***
 Wrote test scripts for interacting with the chat widget on the homepage.
+
 Managed Shadow DOM elements, which required advanced Selenium locators and JavaScript execution.
 
 **Test Demo**
