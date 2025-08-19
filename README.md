@@ -2,9 +2,11 @@
 
 This project contains automated test scripts for the Salesforce Australia website (https://salesforce.com/au) using Selenium WebDriver and TestNG.
 
-📌 Project Description
+**📌 Project Description**
 
 The purpose of this project is to demonstrate automation testing skills by validating key workflows and components on the Salesforce Australia website.
+
+
 
 **✅ Key Features Automated**
 
@@ -24,10 +26,15 @@ Wrote test scripts for interacting with the chat widget on the homepage.
 
 Managed Shadow DOM elements, which required advanced Selenium locators and JavaScript execution.
 
+
+
+
 **Test Demo**
 
 Watch the Salesforce Test Demonstration Here: 
 [Salesforce - Try For Free Demo](https://www.loom.com/share/35b54a7a4bd84c1a8d93651a4b742190?sid=795fc3ee-1609-4b2f-bfeb-d1ba6186514c)
+
+
 
 
 **🛠️ Tech Stack**
